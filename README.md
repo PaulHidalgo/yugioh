@@ -48,7 +48,7 @@ Puedes descargar la última versión de la aplicación en formato APK desde el s
 [
 Descargar APK
 ](
-releases/tu-apk-file.apk
+assets/app-release.apk
 )
 
 ...
