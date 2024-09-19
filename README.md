@@ -30,7 +30,8 @@ La arquitectura de este proyecto sigue una estructura **MVVM (Model-View-ViewMod
 |    UI (View)   +----->+ ViewModel       +----->+  Services      |
 |                |      | (Providers)     |      | (API Calls)    |
 +----------------+      +----------------+      +----------------+
-
+```
+### Demo
 Aquí hay una demostración animada de la aplicación:
 
 ![
